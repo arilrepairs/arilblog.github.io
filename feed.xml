@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://w3.org">
+<channel>
+  <title>My Minimalist Blog</title>
+  <link>https://blog.arilogan.com/</link>
+  <description>Ari Logan's IT internship daily blog</description>
+  <language>en-us</language>
+  <atom:link href="https://blog.arilogan.com/feed.xml" rel="self" type="application/rss+xml" />
+  <!--ITEMS_MARKER-->
+</channel>
+</rss>

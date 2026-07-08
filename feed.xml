@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://w3.org">
-<channel>
-  <title>Ari Logan's Blog</title>
-  <link>https://blog.arilogan.com/</link>
-  <description>Ari Logan's IT internship daily blog</description>
-  <language>en-us</language>
-  <atom:link href="https://blog.arilogan.com/feed.xml" rel="self" type="application/rss+xml" />
-  <!--ITEMS_MARKER-->
-</channel>
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:ns0="http://w3.org" version="2.0">
+  <channel>
+    <title>Ari Logan's Blog</title>
+    <link>https://blog.arilogan.com/</link>
+    <description>Ari Logan's IT internship daily blog</description>
+    <language>en-us</language>
+    <ns0:link href="https://blog.arilogan.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TESTING</title>
+      <link>https://blog.arilogan.com/blog/testing.html</link>
+      <description>testing</description>
+      <pubDate>Wed, 08 Jul 2026 18:17:53 -0000</pubDate>
+      <guid>https://blog.arilogan.com/blog/testing.html</guid>
+    </item>
+  </channel>
 </rss>

@@ -7,6 +7,13 @@
     <language>en-us</language>
     <ns0:link href="https://blog.arilogan.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Fourth Day - 7/13/2026</title>
+      <link>https://blog.arilogan.com/blog/fd-7-13-26.html</link>
+      <description>On my fourth day, I finished all my required trainings, which were mostly related to occupational health safety. The main development is I took my first few helpdesk calls. It's super important for people to save their files in their designated network share, but to make sure they're putting the right types of files in the right places; private files in their private share, but files that need to be shared in a shared folder.</description>
+      <pubDate>Tue, 14 Jul 2026 16:26:44 -0000</pubDate>
+      <guid>https://blog.arilogan.com/blog/fd-7-13-26.html</guid>
+    </item>
+    <item>
       <title>Week in retrospect - Week of Monday, July 6th, 2026</title>
       <link>https://blog.arilogan.com/blog/wir-7-6-26.html</link>
       <description>For the week of Monday, July 6th, 2026, I was finally exposed to how a real IT department operates. The most important things for IT is repeatability and accountability. That's the benefit of ticketing systems, is a way for IT employees to record their work. And because I am working for a healthcare company, I have also been exposed to the importance of Private Health Information (PHI), which is separate but similar to PII (Personal Identifiable Information). A few other concepts that have been reinforced over the course of my first week are warranties and inventory tracking, trust but verify (always make sure the person is who they say they are and what they want is actually what they need), and decomissioning and lifecycle management.</description>

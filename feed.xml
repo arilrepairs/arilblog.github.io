@@ -7,6 +7,13 @@
     <language>en-us</language>
     <ns0:link href="https://blog.arilogan.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Eighth Day - 7/21/2026</title>
+      <link>https://blog.arilogan.com/blog/8d-7-21-26.html</link>
+      <description>There was a bunch of little things today. A user wasn't able to authenticate, and it ended up being a wifi connection hiccup after updating the wifi drivers. It was a simple matter of guiding them through disconnecting and reconnecting to the ssid. Another user neede d to charge a patients credit card, but the reader wouldn't properly initialize. I thought it might be an issue that could've been fixed with a reboot. But It ended up being a known issue where a power cycle of the card reader or a soft reset by pressing a couple of buttons is the real fix. Other than normal helpdesk duties, I was working on provisioning systems to replace existing ones.</description>
+      <pubDate>Wed, 22 Jul 2026 18:32:18 -0000</pubDate>
+      <guid>https://blog.arilogan.com/blog/8d-7-21-26.html</guid>
+    </item>
+    <item>
       <title>Week in retrospect - Week of Monday, July 14th, 2026</title>
       <link>https://blog.arilogan.com/blog/wir-7-14-26.html</link>
       <description>This week I got more accustomed to working in an office environment where there are policies and procedures that need to be followed. Avoiding a shotgun approach helps accountability and efficiency, along with making teamwork more effective. A couple times this week a laptop was brought in with a usb-c issue. If these were my own laptops, I'd just take it to a hot air soldering station and replace the port itself. But these devices are under long-lasting warranties that even cover accidental damages, so they should just be repaired under that warranty (even though it would take longer than me just doing it myself). But I have more important work to do, and it would be a waste of mine and everyone else's time in this work setting. Don't make your job harder for yourself!</description>

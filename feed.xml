@@ -7,6 +7,13 @@
     <language>en-us</language>
     <ns0:link href="https://blog.arilogan.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Ninth - 7/22/2026</title>
+      <link>https://blog.arilogan.com/blog/9d-7-22-26.html</link>
+      <description>On Wednesday, it was another slow day, but I got more good helpdesk experience. I assisted someone with microphone issues related to the electronic health record software, fixed a printing issue caused by the wrong paper size selected for the papaer tray. Other than shadowing other helpdesk employees and taking my own calls, I finished up provisioning the systems I started on Tuesday.</description>
+      <pubDate>Fri, 24 Jul 2026 16:35:59 -0000</pubDate>
+      <guid>https://blog.arilogan.com/blog/9d-7-22-26.html</guid>
+    </item>
+    <item>
       <title>Eighth Day - 7/21/2026</title>
       <link>https://blog.arilogan.com/blog/8d-7-21-26.html</link>
       <description>There was a bunch of little things today. A user wasn't able to authenticate, and it ended up being a wifi connection hiccup after updating the wifi drivers. It was a simple matter of guiding them through disconnecting and reconnecting to the ssid. Another user neede d to charge a patients credit card, but the reader wouldn't properly initialize. I thought it might be an issue that could've been fixed with a reboot. But It ended up being a known issue where a power cycle of the card reader or a soft reset by pressing a couple of buttons is the real fix. Other than normal helpdesk duties, I was working on provisioning systems to replace existing ones.</description>

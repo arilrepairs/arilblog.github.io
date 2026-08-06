@@ -7,6 +7,13 @@
     <language>en-us</language>
     <ns0:link href="https://blog.arilogan.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Seventeenth Day - 8/5/26</title>
+      <link>https://blog.arilogan.com/blog/17d-8-5.html</link>
+      <description>On Wednesday I helped with maintenance on a printer over the phone, and assisted with a recurring issue where AD accounts would tombstone and lost domain trust for seemingly no reason. The issue is still unresolved, but logs were puulled from event viewer on a machine that experienced the issue so they can be investigated by the IT team later. Overall, it was a very slow day on phones. Glad not many people were having issues!</description>
+      <pubDate>Thu, 06 Aug 2026 17:11:22 -0000</pubDate>
+      <guid>https://blog.arilogan.com/blog/17d-8-5.html</guid>
+    </item>
+    <item>
       <title>Sixteenth Day - 8/4/26</title>
       <link>https://blog.arilogan.com/blog/16d-8-4.html</link>
       <description>On Tuesday I went on a big couple of site visits in the morning. The first one was a simple task of replacing an old defective printer with a new one, which ended up being a hassle due to an out of the way storage closet with mostly old sketchy ethernet cables that needed multiple trips to. Always carry an extra! The simpler task there was hardwiring a desktop because of unreliable wifi. Later in the day I helped diagnose a printer jamming issue. The employees at the clinic were saying it was a newer printer, from the last couple years. But the design and a call to Xerox customer service about the warranty proved otherwise. Unfortunately, a maintenence kit from Xerox barely costs less than a whole new printer, one that wouldn't be near the end of its service life. Though that IS what Xerox wants you to do anyways.</description>

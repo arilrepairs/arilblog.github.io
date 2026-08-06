@@ -7,6 +7,13 @@
     <language>en-us</language>
     <ns0:link href="https://blog.arilogan.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Week in retrospect - Week of Monday, July 27th, 2026</title>
+      <link>https://blog.arilogan.com/blog/wir-7-27.html</link>
+      <description>This week I can say i'm comfortable with the routine now. Every helpdesk call I take I can fix if it's under my control, I've gotten my own routines for provisioning and retiring devices, and I'm comfortable with site visits. The week mostly consisted of retiring devices, which hurts my soul a little every time I do it due to data destruciton policies. But other than that, fixed a couple of phone issues, fixed a couple credit card issues, and I've replaced a bunch of monitors so far.</description>
+      <pubDate>Thu, 06 Aug 2026 16:51:23 -0000</pubDate>
+      <guid>https://blog.arilogan.com/blog/wir-7-27.html</guid>
+    </item>
+    <item>
       <title>Fifteenth Day - 7/30/26</title>
       <link>https://blog.arilogan.com/blog/15d-7-30.html</link>
       <description>Assisted with a credit card reader issue on a new workstation. Drivers were installed wrong so the reader was on the wrong COM port, and needed to be re-installed with a script. Retired a couple workstations which is a multi-step process in AD &amp; intune &amp; the rmm software NinjaOne. I was able to set up a phone. AA user got a new workstation and I needed to install a printer for them. Another user need their account unlocked because they ran out of password attempts. I also figured out how to delete the default keyboard language selected in the oobe (which for some reason cannot be changed in the GUI) as you don't want extra helpdeskk calls because a user accidentally selected the wrong keyboard language.</description>

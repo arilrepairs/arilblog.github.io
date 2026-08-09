@@ -7,13 +7,6 @@
     <language>en-us</language>
     <ns0:link href="https://blog.arilogan.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>test</title>
-      <link>https://blog.arilogan.com/blog/test.html</link>
-      <description>why didn't they publish? this is a test of my workflwo</description>
-      <pubDate>Thu, 06 Aug 2026 17:36:05 -0000</pubDate>
-      <guid>https://blog.arilogan.com/blog/test.html</guid>
-    </item>
-    <item>
       <title>Seventeenth Day - 8/5/26</title>
       <link>https://blog.arilogan.com/blog/17d-8-5.html</link>
       <description>On Wednesday I helped with maintenance on a printer over the phone, and assisted with a recurring issue where AD accounts would tombstone and lost domain trust for seemingly no reason. The issue is still unresolved, but logs were puulled from event viewer on a machine that experienced the issue so they can be investigated by the IT team later. Overall, it was a very slow day on phones. Glad not many people were having issues!</description>

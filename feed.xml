@@ -7,6 +7,13 @@
     <language>en-us</language>
     <ns0:link href="https://blog.arilogan.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Eighteenth Day - 8/6/26</title>
+      <link>https://blog.arilogan.com/blog/18d-8-6.html</link>
+      <description>Learned how to add a user to a shared mailbox in exchange as I needed my account to be able to send as a shared e-mail. Showed another user how to set their display settings in Windows for multiple displays. Got a couple of calls about accounts being frozen in the electronic medical record software, which while I'm not able to fix myself, was shown the procedure, which is to reset the session in Citrix studio. Helped a less technical user diagnose an issue with their login and headset; good experience overall today with learning more communication skills.</description>
+      <pubDate>Mon, 10 Aug 2026 18:56:00 -0000</pubDate>
+      <guid>https://blog.arilogan.com/blog/18d-8-6.html</guid>
+    </item>
+    <item>
       <title>Seventeenth Day - 8/5/26</title>
       <link>https://blog.arilogan.com/blog/17d-8-5.html</link>
       <description>On Wednesday I helped with maintenance on a printer over the phone, and assisted with a recurring issue where AD accounts would tombstone and lost domain trust for seemingly no reason. The issue is still unresolved, but logs were puulled from event viewer on a machine that experienced the issue so they can be investigated by the IT team later. Overall, it was a very slow day on phones. Glad not many people were having issues!</description>

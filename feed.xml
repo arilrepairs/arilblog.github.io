@@ -7,6 +7,13 @@
     <language>en-us</language>
     <ns0:link href="https://blog.arilogan.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Week in retrospect - Week of Monday, August 3rd, 2026</title>
+      <link>https://blog.arilogan.com/blog/wir-8-3-26.html</link>
+      <description>This week I finally got to see some printer issues, which I hear a lot about haha. Really they're not that bad if you automate their installation and stick to networked printers that have a nice web interface. And deinitely make sure you brought every thing you need, and a couple extras. Man is it not fun running back and forth up a couple flights of stairs just because you miscalculated something or didn't realize the one cable you grabbed was faulty. Other than that, it was nice to see how some more administrative IT tasks were done like shared mailboxes for e-mail and EMR account management.</description>
+      <pubDate>Tue, 11 Aug 2026 17:29:55 -0000</pubDate>
+      <guid>https://blog.arilogan.com/blog/wir-8-3-26.html</guid>
+    </item>
+    <item>
       <title>Eighteenth Day - 8/6/26</title>
       <link>https://blog.arilogan.com/blog/18d-8-6.html</link>
       <description>Learned how to add a user to a shared mailbox in exchange as I needed my account to be able to send as a shared e-mail. Showed another user how to set their display settings in Windows for multiple displays. Got a couple of calls about accounts being frozen in the electronic medical record software, which while I'm not able to fix myself, was shown the procedure, which is to reset the session in Citrix studio. Helped a less technical user diagnose an issue with their login and headset; good experience overall today with learning more communication skills.</description>

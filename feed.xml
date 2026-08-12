@@ -7,6 +7,13 @@
     <language>en-us</language>
     <ns0:link href="https://blog.arilogan.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Twentieth Day - 8/11/26</title>
+      <link>https://blog.arilogan.com/blog/20d-8-11.html</link>
+      <description>I was shown the procedure for interdepartment delivery which uses a courier service, and I went on a site visit to install a couple webcams. On one laptop, Teams had crapped the bed and wouldn't work with the built-in webcam even though Windows itself could use it just fine. It was a simple fix of going into Windows settings &gt; Apps &gt; Installed apps &gt; Microsoft Teams &gt; Advanced options &gt; Terminate then Repair.</description>
+      <pubDate>Wed, 12 Aug 2026 18:08:21 -0000</pubDate>
+      <guid>https://blog.arilogan.com/blog/20d-8-11.html</guid>
+    </item>
+    <item>
       <title>Nineteenth Day - 8/10/26</title>
       <link>https://blog.arilogan.com/blog/19d-8-10.html</link>
       <description>On Monday I had a challenging call right in the morning helping a non-technical user diagnose a monitor issue which was resolved eventually. Biggest lesson was learning to take my time and ask as many questions as I can while using very simple language, which if you think is simple on your first try, likely is not simple enough. It was good practice for another call I got where a user thought they had followed the instructions for setting up 1password, but unclear instructions from 1password caused the user to not be able to set up their account. I was able to explain the correct procedure to them. Another thing I did was getting guided through the process of printing badges, which is complicated by strict and obtuse licensing from the card printer software and the printer itself.</description>

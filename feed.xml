@@ -7,6 +7,13 @@
     <language>en-us</language>
     <ns0:link href="https://blog.arilogan.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Twenty-third Day - 8/17/26</title>
+      <link>https://blog.arilogan.com/blog/23d-8-17.html</link>
+      <description>In the morning I got a call about the video feed being flipped when trying to take patient photos, and it was hard for front desk staff to use. This required a lot of diagnosing to figure out what was going wrong. In the Windows camera app, the feed wasn't flipped, only in the EMR software (Epic) was it flipped. After escalating to the actual Epic helpdesk staff did we confirm it was an intentional change in Epic. So after all the time I spent trying to figure out what was going wrong, it ended up being a "deal with it" issue where it wouldn't be worth it to buy actual cameras to take the patient photos. I got a call about a user not being able to open epic so I remoted into their computer and saw three desktops. I've never seen someone with three screens during my internship so I knew something was fishy. Turns out they have their laptop lid closed and connected to a dock connected to two monitors, but the laptop screen was still showing up as a desktop in Windows. Luckily this is not a hard issue to fix and you can just disable the laptop display in Windows. Later in the day I provisioned a new laptop and decommisoned an old one that was being replaced because both usb-c ports had died. (Thinkpad T14 gen 1's commonly have this fault).</description>
+      <pubDate>Wed, 19 Aug 2026 18:00:50 -0000</pubDate>
+      <guid>https://blog.arilogan.com/blog/23d-8-17.html</guid>
+    </item>
+    <item>
       <title>Week in retrospect - Week of Monday, August 10th, 2026</title>
       <link>https://blog.arilogan.com/blog/wir-8-10.html</link>
       <description>The helpdesk calls got harder this week. I'm able to take more calls myself, but that also means helping people who aren't easy to communicate tech things to. I was also shown more functions of the job, things like Epic Hyperspace, where the first place you're ever gonna hear about it is the first day of the job. So you have to learn to adapt to new setups and learn quickly to be successful in IT.</description>

@@ -7,6 +7,13 @@
     <language>en-us</language>
     <ns0:link href="https://blog.arilogan.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Week in retrospect - Week of Monday, August 10th, 2026</title>
+      <link>https://blog.arilogan.com/blog/wir-8-10.html</link>
+      <description>The helpdesk calls got harder this week. I'm able to take more calls myself, but that also means helping people who aren't easy to communicate tech things to. I was also shown more functions of the job, things like Epic Hyperspace, where the first place you're ever gonna hear about it is the first day of the job. So you have to learn to adapt to new setups and learn quickly to be successful in IT.</description>
+      <pubDate>Wed, 19 Aug 2026 16:38:36 -0000</pubDate>
+      <guid>https://blog.arilogan.com/blog/wir-8-10.html</guid>
+    </item>
+    <item>
       <title>Twenty-second Day - 8/13/26</title>
       <link>https://blog.arilogan.com/blog/22d-8-13.html</link>
       <description>On Thursday I went on a couple site visits to replace faulty devices. The first was a laptop that has stability issues and the other being a printer with a worn out drum. Then as we're getting ready to leave it turns out that a multifunction printer is having issues with faxing. It was temporarily fixed with a reboot, but the issues came back after we left. It was an issue with the ATA that allows analog devices like the fax function of the printer to connect to the VOIP network. Unfortunately, the phone system along with the ATA's are contracted out to a different company to manage. At the office I took a couple helpdesk calls. One was bluetooth issues where the Polycom phone would suddenly stop connecting to bluetooth devices, even if trying to force a disconnect and reconnect. But it's just a simple issue of rebooting the phone. The other call was about a Zebra label printer that reportedly wasn't printing correctly. The user had to be instructed to change the printer type in the software.</description>
